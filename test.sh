@@ -1,4 +1,3 @@
 #!/bin/sh
 
-curl https://www.google.com/
-curl https://www.google.com/ -o "google.html"
+curl https://www.google.com/ > google2.html
